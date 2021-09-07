@@ -31,6 +31,7 @@ I'm from Indonesia and living in Jakarta. <br>
 <img align="left" alt="Linux" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
 <img align="left" alt="Django" height="26px" src="https://cdn.iconscout.com/icon/free/png-512/django-12-1175186.png">
 <img align="left" alt="Kotlin" height="26px" src="https://cdn.iconscout.com/icon/free/png-512/kotlin-2752140-2284957.png">
+<img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-128/php-2752101-2284918.png" />
 <br />
 <br />
 
@@ -38,6 +39,17 @@ I'm from Indonesia and living in Jakarta. <br>
 [twitter]: https://twitter.com/yosephbernandus
 [linkedin]: https://linkedin.com/in/yosephbernandus
 
+
+##  My Github Stats:
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=yosephbernandus&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=yosephbernandus&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yosephbernandus&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosephbernandus&theme=tokyonight" />
+</a>
+</div>
 <!--
 **yosephbernandus/yosephbernandus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
