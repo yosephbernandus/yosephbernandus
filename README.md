@@ -46,9 +46,11 @@ I'm from Indonesia and living in Jakarta. <br>
 <a href="https://github-readme-stats.vercel.app/api?username=yosephbernandus&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=yosephbernandus&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
+ <!--
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yosephbernandus&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosephbernandus&theme=tokyonight" />
 </a>
+-->
 </div>
 <!--
 **yosephbernandus/yosephbernandus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
