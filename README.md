@@ -2,8 +2,8 @@
 
 I'm from Indonesia and living in Jakarta. <br>
 
-- 🌱  &nbsp; I’m currently learning mobile development
-- 🥅  &nbsp; 2021 Goals: Contribute more to Open Source projects
+- 🌱  &nbsp; I’m currently learning mobile development & go
+- 🥅  &nbsp; 2022 Goals: Contribute more to Open Source projects
 
 ## Connect with me:
 
