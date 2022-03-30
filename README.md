@@ -36,7 +36,7 @@ I'm from Indonesia and living in Jakarta. <br>
 <br />
 
 
-[twitter]: https://twitter.com/yosephbernandus
+[twitter]: https://twitter.com/yosepbernandus
 [linkedin]: https://linkedin.com/in/yosephbernandus
 
 
