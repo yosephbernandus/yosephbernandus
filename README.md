@@ -1,4 +1,5 @@
 ## Hi there, I'm [Yoseph](https://github.com/yosephbernandus) 👋 
+![](https://komarev.com/ghpvc/?username=yosephbernandus&style=flat-square)
 
 I'm from Indonesia and living in Jakarta. <br>
 
