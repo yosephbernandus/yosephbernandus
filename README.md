@@ -3,7 +3,7 @@
 
 I'm from Indonesia and living in Jakarta. <br>
 
-- 🌱  &nbsp; I’m currently learning mobile development & go
+- 🌱  &nbsp; I’m currently learning mobile development (kotlin) & go
 - 🥅  &nbsp; 2022 Goals: Contribute more to Open Source projects
 
 ## Connect with me:
