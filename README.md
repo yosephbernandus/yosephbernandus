@@ -40,7 +40,7 @@ I'm from Indonesia and living in Jakarta. <br>
 [twitter]: https://twitter.com/yosepbernandus
 [linkedin]: https://linkedin.com/in/yosephbernandus
 
-
+<!--
 ##  My Github Stats:
 
 <div>
