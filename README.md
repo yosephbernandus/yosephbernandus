@@ -5,6 +5,7 @@
 
 - My Journey on Google Cloud: [Badge](https://www.cloudskillsboost.google/public_profiles/962ae5a7-c346-4d9b-a571-3b87d053f7ac)
 - 👨‍💻 All of my projects are available at [https://yoseph.my.id](https://yoseph.my.id)
+- Blog [https://blog.yosephbernandus.com/](https://blog.yosephbernandus.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
